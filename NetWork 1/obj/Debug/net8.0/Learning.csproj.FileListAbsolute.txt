@@ -1,0 +1,14 @@
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\bin\Debug\net8.0\Learning.exe
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\bin\Debug\net8.0\Learning.deps.json
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\bin\Debug\net8.0\Learning.runtimeconfig.json
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\bin\Debug\net8.0\Learning.dll
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\bin\Debug\net8.0\Learning.pdb
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.AssemblyInfo.cs
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.dll
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\refint\Learning.dll
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.pdb
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\Learning.genruntimeconfig.cache
+C:\Users\Artur\source\repos\NetWork 1\NetWork 1\obj\Debug\net8.0\ref\Learning.dll

@@ -1,0 +1,23 @@
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Learning.deps.json
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Learning.runtimeconfig.json
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Learning.exe
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Number Recognition.exe
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Number Recognition.deps.json
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Number Recognition.runtimeconfig.json
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Number Recognition.dll
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Number Recognition.pdb
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Learning.dll
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\bin\Debug\net8.0-windows\Learning.pdb
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number_Recognition.Form1.resources
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.AssemblyInfo.cs
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number R.B1011384.Up2Date
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.dll
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\refint\Number Recognition.dll
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.pdb
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\Number Recognition.genruntimeconfig.cache
+C:\Users\Artur\source\repos\NetWork 1\Number Recognition\obj\Debug\net8.0-windows\ref\Number Recognition.dll
